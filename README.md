@@ -8,7 +8,6 @@
 * and more...
 
 ## Screenshots
-<img alt='chữ thay thế khi ảnh bị lỗi' src='tên ảnh.jpg'>
 ![Source code and test script](https://github.com/minhduy77/math-util/blob/main/screenshots/SourceCodeAndUnitTest.png)
 
 
