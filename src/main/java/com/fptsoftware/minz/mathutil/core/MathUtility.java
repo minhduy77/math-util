@@ -11,11 +11,16 @@ package com.fptsoftware.minz.mathutil.core;
 //đây là kĩ thuật giúp code của nhiều dự án trong 1 cty có thể 
 //ở chung folder mà ko bị lẫn lộn
 //giúp thư viện của các cty khác nhau ở chung với nhau dù trùng tên
-//KMS (kâtlon) com.kms.
+//KMS (katalon) com.kms.
 
 //C#        Giaolang.MathUtil.
 //          Microsoft.MathUtil.
 public class MathUtility {
+    
+    //modify code in local, later upload to server
+    public static void printMsg(){
+        
+    }
     
     // Hàm tính n! = 1, 2, 3, 4,... n
     // Hàm là static vì tính xong trả về, ko nhớ nhung gì cả
@@ -56,3 +61,12 @@ public class MathUtility {
 //n! = n x (n - 1)! công thức đệ quy - recursion
 
 //búp bê người Nga
+//NẾU TA XÀI CI TRONG PROJECT, THÌ LỢI ĐIỂM LÀ MỖI LẦN SỬA CODE, DÂN DEV
+//KO CẦN MẤT SỨC TEST LẠI CODE CỦA MÌNH ĐÚNG SAI, DO CƠ CHẾ TỰ ĐỘNG
+//RUN TEST CASES CỦA CI LO GIÚP
+
+//TOÀN BỘ VIỆC TEST LẠI CODE ĐC TỰ ĐỘNG HÓA, PM, DEV CHỈ CẦN NHÌN MÀU 
+//XANH LÀ ĐỦ, BIẾT RẰNG VIỆC SỬA CODE NGON, VÌ PASS ĐC BỘ TEST
+
+//VIỆC TEST LẠI HÀM ĐÃ TỪNG TEST => REGRESSION TESTING
+//                               =>  KIỂM THỬ HỒI QUY
