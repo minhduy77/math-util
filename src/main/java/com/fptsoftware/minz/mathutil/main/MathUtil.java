@@ -12,6 +12,12 @@ import javax.swing.JOptionPane;
  * @author LENOVO
  */
 public class MathUtil {
+
+        //MODIFY CODE DIRECTLY IN SERVER - TO SIMULATE A CASE WHERE TEAM MEMBER 
+        //UPLOAD CODE
+        public void SayHelloFromServer(){
+
+        }
 //CÁCH 1
 //    public static void main(String[] args) {
 //        //TEST CASE #01
