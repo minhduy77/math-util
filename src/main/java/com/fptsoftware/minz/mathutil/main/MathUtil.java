@@ -12,7 +12,11 @@ import javax.swing.JOptionPane;
  * @author LENOVO
  */
 public class MathUtil {
-
+        
+        //modify code in local, later upload to server
+        public static void printMsg(){
+        
+        }
         //MODIFY CODE DIRECTLY IN SERVER - TO SIMULATE A CASE WHERE TEAM MEMBER 
         //UPLOAD CODE
         public void SayHelloFromServer(){
