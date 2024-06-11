@@ -5,7 +5,7 @@
 ## You will find in this repo the following stuff
 
 - A Java Project (using Maven) to demonstrate a Math library as in JDK
-- A Unit Test test script using JUnit Test framework and TDD, DDT technique
+- A Unit Test test script using JUnit Test framework and TDD, DDT techniques and Regression Testing techniques
 - A CI script to demonstrate the Continous Integration using GitHub Actions
 - Demonstrate the source code confliction on pushing
 - and more...
